@@ -1,4 +1,4 @@
-function add(a, b) {
+function add() {
   var a = $("#num1").val();
   var b = $("#num2").val();
   var c = parseInt(a) + parseInt(b);
